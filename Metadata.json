@@ -1,0 +1,20 @@
+{
+    "Author": "Craig Landis",
+    "ContentSize": 922,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connectazurevm.ps1/master/Connect-AzureVM.ps1",
+    "DownloadCount": 1959,
+    "Id": "Connect-AzureVMps1-7ad2a7a3",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 142,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-7-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Connect-AzureVM.ps1 takes a servicename, VM name, username, and password as arguments and starts an interactive remote PowerShell session with an Azure VM. This script requires that Azure PowerShell already be configured on your local machine. Run Get-AzurePublishSettingsFile and",
+    "Title": "Connect-AzureVM.ps1",
+    "UpdatedDate": "2014-7-31T00:00:00",
+    "Url": "https://github.com/azureautomation/connectazurevm.ps1",
+    "UserTags": ""
+}
